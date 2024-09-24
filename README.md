@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Java, Selenium, MySQL, Git, Manual Testing**
 
-- 📫 How to reach me **nadeem.zaya@gmail.com**
+- 📫 How to reach me 
 
 <h3 align="left">Connect with me: linkedIn</h3>
 <p align="left">
