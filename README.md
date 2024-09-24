@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Youtube UI Automation**
 
-- 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/nadeemzaya-crio-users/?edit=true](https://www.crio.do/learn/portfolio/nadeemzaya-crio-users/?edit=true)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **Java, Selenium, MySQL, Git, Manual Testing**
 
